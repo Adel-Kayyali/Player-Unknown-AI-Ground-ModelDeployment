@@ -131,10 +131,10 @@ def main():
 
     col1, col2,col3 = st.columns(3)
 
-    github_link = 'https://github.com/Adel-Kayyali/PUBG-Predictor'
+    github_link = 'https://github.com/Adel-Kayyali/Player-Unknown-AI-Ground-ModelDeployment'
     github_image = 'https://cdn.iconscout.com/icon/free/png-512/github-1521500-1288242.png?f=avif&w=256'
 
-    linkedin_link = 'https://www.linkedin.com/in/adel-kayyali-96b884240/'
+    linkedin_link = 'https://www.linkedin.com/in/adel-kayyali-082051293/'
     linkedin_image = 'https://cdn.iconscout.com/icon/free/png-512/linkedin-1464529-1239440.png?f=avif&w=256'
 
     with col1:
